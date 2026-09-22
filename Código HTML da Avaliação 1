@@ -1,0 +1,55 @@
+<html>
+<head>
+    <title>Meu Perfil</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <table>
+        <tr class="cabecalho">
+            <td colspan="2">
+                <h1>Meu Perfil</h1>
+            </td>
+        </tr>
+        
+        <tr>
+            <td>
+                <div>
+                    <img src="foto.jpg" alt="Foto de perfil" class="imagem">
+                </div>
+            </td>
+            <td>
+                <div class="nome">
+                    <h2>Felipe Jales</h2>
+                </div>
+                <div class="descricao">
+                    <p>Estudante de Ciência da Computação na PUC<br>
+                    Minas, apaixonado por tecnologia e<br>desenvolvimento web.</p>
+                </div>
+                <div class="subtitulo">
+                    <h3>Hobbies</h3>
+                </div>
+                <div class="hobbies">
+                    <ul>
+                        <li>Programação</li>
+                        <li>Jogos eletrônicos</li>
+                        <li>Leituras</li>
+                    </ul>
+                </div>
+                <div class="site">
+                    <span>Saiba mais em </span>
+                    <a href="#">
+                        PUC Minas                    
+                    </a>
+                    <span>.</span>
+                </div>
+            </td>
+        </tr>
+        
+        <tr class="rodape">
+            <td colspan="2">
+                @ 2026 Meu Perfil - Todos os direitos reservados.
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
