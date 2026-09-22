@@ -1,0 +1,64 @@
+body {
+    font-family: "Arial", sans-serif;
+    background-color: rgb(245, 245, 245);/
+}
+
+table {
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+    border-collapse: collapse;
+    background-color: rgb(255, 255, 255);
+}
+
+td, tr {
+    padding: 20px;
+    border: 1px solid rgb(192, 192, 192);
+}
+
+.cabecalho {
+    background-color: #1f3b57;
+    color: white;                  
+}
+
+.imagem {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 2px solid #1f3b57;
+    border-radius: 50%;
+}
+.hobbies{
+
+    text-align: left;
+
+}
+.subtitulo{
+
+    text-align: left;
+    font-size: 14px;
+
+}
+
+.nome{
+
+    text-align: left;
+    color: #1f3b57;
+}
+.descricao{ 
+
+    text-align: left;
+
+}
+.site{
+
+    text-align: left;
+
+}
+.rodape{
+
+    color: rgb(37, 37, 37);
+    background-color: #EBF0F2;
+    font-size: 12px;
+}
